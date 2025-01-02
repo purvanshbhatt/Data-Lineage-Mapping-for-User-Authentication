@@ -1,5 +1,5 @@
-#include <SFML/Graphics.hpp>
 #include <iostream>
+#include <SFML\Graphics.hpp>
 #include <vector>
 #include <string>
 #include <fstream>
