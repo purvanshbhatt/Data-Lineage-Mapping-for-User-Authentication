@@ -25,7 +25,7 @@ This project documents the flow of user authentication data across multiple syst
 
 The following diagram illustrates the flow of authentication data within the system:
 
-![Data Lineage Map](./data-lineage-map.png)  
+![Data Lineage Map](./Data_Lineage_Map.jpeg)  
 
 * **User:** Initiates the authentication process by providing their credentials.
 * **Web Server:** Receives the credentials, performs initial validation, and interacts with the database for authentication.
